@@ -2,6 +2,8 @@
 
 This software is a python slot machine that cheats on the users.
 
+![screenshot](screenshot_01.png)
+
 
 ## Usage
 
